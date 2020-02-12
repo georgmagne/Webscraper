@@ -1,2 +1,2 @@
-# WebScraper
+# Webscraper
 WebScraping using BeautifulSoup
