@@ -1,2 +1,2 @@
 # Webscraper
-WebScraping using BeautifulSoup
+WebScraping using BeautifulSoup in Python 3.
